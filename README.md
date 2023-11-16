@@ -23,3 +23,7 @@ Certifique-se de fornecer as dimensões corretas da imagem (largura e altura) no
 |   |   |-- placas_validacao_csv.csv
 |-- convert_csv_to_yolo.py
 |-- convert_json_to_yolo.py
+
+## Licença
+
+Você pode reproduzir, modificar e distribuir o código, desde que inclua o aviso de licença. Consulte o arquivo [LICENSE](LICENSE.txt) para obter mais detalhes.
