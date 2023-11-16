@@ -1,7 +1,7 @@
-YOLOv8 Polygon Coordinates Converter
+#YOLOv8 Polygon Coordinates Converter
 Este repositório contém dois scripts em Python para converter coordenadas de polígonos em formato YOLOv8. Os scripts são projetados para trabalhar com dados de treinamento em formato CSV e JSON.
 
-Uso
+##Uso
 Script 1 (CSV):
 python convert_csv_to_yolo.py
 Este script lê um arquivo CSV contendo coordenadas de polígonos e gera arquivos .txt no mesmo diretório.
@@ -10,10 +10,10 @@ Script 2 (JSON):
 python convert_json_to_yolo.py
 Este script lê um arquivo JSON contendo coordenadas de polígonos e também gera arquivos .txt no mesmo diretório.
 
-Configuração
+##Configuração
 Certifique-se de fornecer as dimensões corretas da imagem (largura e altura) no script antes de executar.
 
-Estrutura de Diretórios
+##Estrutura de Diretórios
 /
 |-- placas/
 |   |-- train/
