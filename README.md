@@ -1,6 +1,6 @@
 # YOLOv8 Polygon Coordinates Converter
 
-Este repositório contém dois scripts em Python para converter coordenadas de polígonos em formato YOLOv8. Os scripts são projetados para trabalhar com dados de treinamento em formato CSV e JSON.
+Este repositório contém dois scripts em Python para converter coordenadas de polígonos VGG16 em formato YOLOv8. Os scripts são projetados para trabalhar com dados de treinamento em formato CSV e JSON.
 
 ## Uso
 **Script 1 (CSV)**:
